@@ -13,6 +13,20 @@ Initially this project was made to help me not only to work with trade ups but a
 
 #### This project is Production ready Angular application with SSR and Backend by NestJS. Feel free to investigate it and if you have any questions open an Issue or contact me via [our Discord](https://discord.gg/wAXJBpu)
 
+## Documentation
+
+📚 **[Complete Tradeup Calculation Logic Documentation](./TRADEUP_CALCULATION_LOGIC.md)**
+
+This comprehensive document explains all the mathematical formulas, algorithms, and logic used for CS:GO trade-up calculations including:
+- Float value calculations and outcome float determination
+- Probability and odds calculations for trade-up outcomes
+- Expected Value (EV) and profit calculations
+- Price determination with Steam tax handling
+- Trade-up simulation logic with weighted random selection
+- All helper functions and edge case handling
+
+Perfect for understanding how the trade-up system works under the hood!
+
 ## Key project features
 - Search for trade ups using custom parameters such as profit, success odds, expected value (EV), and many others
 - Trade up results page with different stats and overviews
